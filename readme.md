@@ -1,4 +1,4 @@
 projekt 2
 
 -----------
-opis
+opis2
